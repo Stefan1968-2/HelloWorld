@@ -1,0 +1,63 @@
+[33mcommit 82cfde1d00cba7e5fca7f98df3abe510fb244525[m
+Author: Stefan Bjornander <stefan.bjornander@chasacademy.se>
+Date:   Fri Nov 29 08:36:03 2019 +0000
+
+    Next3
+
+[33mcommit ac178887361994e45c921c78f7517ebaa0a3251f[m
+Author: Stefan Bjornander <stefan.bjornander@chasacademy.se>
+Date:   Fri Nov 29 08:27:08 2019 +0000
+
+    Test Next
+
+[33mcommit 75827c7ad7b7a9ae6b26dc77f4da16ebef0aee57[m
+Merge: 2c5cd2d 015b15c
+Author: Stefan Bjornander <stefan.bjornander@chasacademy.se>
+Date:   Fri Nov 29 08:15:48 2019 +0000
+
+    Merge branch 'master' of https://github.com/Stefan1968-2/HelloWorld
+
+[33mcommit 2c5cd2deb0439ed0bd972ee5b7c58cc5758d6873[m
+Author: Stefan Bjornander <stefan.bjornander@chasacademy.se>
+Date:   Fri Nov 29 08:14:05 2019 +0000
+
+    Initial commit
+
+[33mcommit 015b15cd6b2fe59b85f3d62bb216799c15ec986e[m
+Author: Stefan Bjornander <stefan.bjornander@chasacademy.se>
+Date:   Thu Nov 28 15:09:54 2019 +0000
+
+    Hello3
+
+[33mcommit a006ae82887df3ecc802ddd4a4d6afc675df1e77[m
+Author: Stefan Bjornander <stefan.bjornander@chasacademy.se>
+Date:   Thu Nov 28 15:08:44 2019 +0000
+
+    Hello2
+
+[33mcommit 2435346f81f466e80542bbde624c8ebd2f7ed672[m
+Author: Stefan Bjornander <stefan.bjornander@chasacademy.se>
+Date:   Thu Nov 28 15:45:32 2019 +0100
+
+    Hello
+
+[33mcommit 64817b824c3d523ff61f075b184b6c042f1cb465[m
+Merge: 1023bbc 1515ed7
+Author: Stefan1968-2 <57489630+Stefan1968-2@users.noreply.github.com>
+Date:   Thu Nov 14 08:55:54 2019 +0100
+
+    Merge pull request #1 from Stefan1968-2/readme-edits
+    
+    Update README.md
+
+[33mcommit 1515ed7ea16c90d7189c8f0d5ad2de5ceebd6a97[m
+Author: Stefan1968-2 <57489630+Stefan1968-2@users.noreply.github.com>
+Date:   Wed Nov 13 12:35:39 2019 +0100
+
+    Update README.md
+
+[33mcommit 1023bbc70cacf9b327a496562a649b75aff17280[m
+Author: Stefan1968-2 <57489630+Stefan1968-2@users.noreply.github.com>
+Date:   Wed Nov 13 12:22:31 2019 +0100
+
+    Initial commit
