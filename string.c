@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int my_strlen(char *s) // HEllo Next
+int my_strlen(char *s) // Hello Next
 {
-   char *p = s;
+   char *p = s; // Hello, again
 
 while (*p)
       ++p;
