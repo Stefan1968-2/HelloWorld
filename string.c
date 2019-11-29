@@ -10,7 +10,7 @@ while (*p)
    char *p = s;
 while (*p) // Next Hello
 >>>>>>> 510ba580431c49761ad83d4db5c242aa124e6bb6
-      ++p;
+      ++p; // Another Hello
 
 return (p - s);
 }
