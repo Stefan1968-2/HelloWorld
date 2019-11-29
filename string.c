@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int my_strlen(char *s) // HEllo:w
+int my_strlen(char *s) // HEllo Next
 {
    char *p = s;
 
